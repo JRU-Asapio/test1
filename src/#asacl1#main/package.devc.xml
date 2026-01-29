@@ -3,11 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DEVC>
-    <CTEXT>Generated Package for /ASACL1/CLOUDINT</CTEXT>
+    <CTEXT>Main package</CTEXT>
     <LANGUAGE>E</LANGUAGE>
     <MASTERLANG>E</MASTERLANG>
-    <RESTRICTED>X</RESTRICTED>
-    <MAINPACK>S</MAINPACK>
    </DEVC>
   </asx:values>
  </asx:abap>
